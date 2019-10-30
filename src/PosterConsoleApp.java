@@ -1,8 +1,8 @@
 /*
-Program: Plakaty
-Plik: PosterApp.java
-Autor: Filip Przygoński, 248892
-Ostatnia data modyfikacji: 30.10.19
+    Program: Aplikacje: konsolowa oraz okienkowa z GUI, umożliwiające testowanie obiektów klasy Poster i operacji na nich
+    Plik: PosterConsoleApp.java
+    Autor: Filip Przygoński, 248892
+    Ostatnia data modyfikacji: 30.10.19
 */
 
 import java.util.Vector;

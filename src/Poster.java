@@ -1,8 +1,8 @@
 /*
-Program: Plakaty
-Plik: Poster.java
-Autor: Filip Przygoñski, 248892
-Ostatnia data modyfikacji: 30.10.19
+    Program: Aplikacje: konsolowa oraz okienkowa z GUI, umo¿liwiaj¹ce testowanie obiektów klasy Poster i operacji na nich
+    Plik: Poster.java
+    Autor: Filip Przygoñski, 248892
+    Ostatnia data modyfikacji: 30.10.19
 */
 
 import java.io.FileWriter;

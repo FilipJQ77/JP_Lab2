@@ -1,3 +1,10 @@
+/*
+    Program: Aplikacje: konsolowa oraz okienkowa z GUI, umożliwiające testowanie obiektów klasy Poster i operacji na nich
+    Plik: IPosterDatabaseHandling.java
+    Autor: Filip Przygoński, 248892
+    Ostatnia data modyfikacji: 30.10.19
+*/
+
 import java.io.*;
 import java.util.Scanner;
 import java.util.Vector;

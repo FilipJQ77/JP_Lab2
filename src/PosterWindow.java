@@ -1,8 +1,8 @@
 /*
-    Program: Aplikacja okienkowa z GUI, umożliwiająca testowanie obiektów klasy Poster i operacji na nich
+    Program: Aplikacje: konsolowa oraz okienkowa z GUI, umożliwiające testowanie obiektów klasy Poster i operacji na nich
     Plik: PosterWindow.java
     Autor: Filip Przygoński, 248892
-    Ostatnia data modyfikacji: 27.10.19
+    Ostatnia data modyfikacji: 30.10.19
 */
 
 import javax.swing.*;
