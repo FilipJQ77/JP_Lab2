@@ -1,14 +1,5 @@
 /*
-Program: Prosta biblioteka metod do realizacji dialogu z użytkownikiem
-         w prostych aplikacjach bez graficznego interfejsu użytkownika.
-Plik: ConsoleUserDialog.java
 Autor: Paweł Rogalinski
-Data: pazdziernik 2018 r.
-
-
-Użyty w:
-Program: Plakaty
-Autor: Filip Przygoński, 248892
 */
 
 import java.util.Scanner;
